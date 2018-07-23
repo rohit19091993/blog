@@ -1,0 +1,2 @@
+class Singin < ApplicationRecord
+end
